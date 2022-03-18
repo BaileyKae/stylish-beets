@@ -15,3 +15,16 @@ h1, h2 {
   color: #3f1622;
   font-size: 1.5rem;
 }
+
+header ol {
+  font-family: "PT Sans", sans-serif;
+  font-weight: bold;
+  color: #8f2440;
+  font-size: 1.25rem;
+  list-style-type: none;
+}
+
+a {
+  color: #8f2440;
+  text-decoration: none;
+}
