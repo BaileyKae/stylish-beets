@@ -45,3 +45,20 @@ figcaption {
   color: #222;
   text-align: center;
 }
+
+p {
+  font-family: "PT Serif", serif;
+  font-size: .8rem;
+  color: #222;
+}
+
+footer {
+  font-family: "PT Serif", serif;
+  font-size: .8rem;
+  color: #222;
+}
+
+figure + p {
+  font-weight: bold;
+  font-size: 1.25rem;
+}
