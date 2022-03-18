@@ -8,3 +8,10 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+h1, h2 {
+  font-family: "PT Sans", sans-serif;
+  font-weight: bold;
+  color: #3f1622;
+  font-size: 1.5rem;
+}
