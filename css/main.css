@@ -76,3 +76,11 @@ h2 + ol {
 h2 + p {
   font-style: italic;
 }
+
+dt {
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: circle;
+}
